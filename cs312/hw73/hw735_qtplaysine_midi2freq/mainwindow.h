@@ -23,10 +23,10 @@ class MainWindow : public QMainWindow
     ~MainWindow();
 
 private slots:
-    void on_pushButton_play_clicked();
-    void on_pushButton_stop_clicked();
-    void on_horizontalSlider_freq_valueChanged( int value );
-    void on_horizontalSlider_amp_valueChanged( int value );
+    void on_pushButton_quit_clicked();
+    void on_verticalSlider_amp_valueChanged( int value );
+    void on_toolButton_C4_pressed();
+    void on_toolButton_C4_released();
 
 private:
     Ui::MainWindow* ui;

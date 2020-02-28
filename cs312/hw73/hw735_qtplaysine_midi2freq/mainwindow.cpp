@@ -13,17 +13,17 @@
 -------------------------------------------------*/
 RtAudio dac;
 bool isPlaying = true;
+static MY_TYPE freq = 0;
 
 // One-channel sine wave generator replaces saw callback function
 // unchanged
 int sine( void* outputBuffer, void* inputBuffer, unsigned int nBufferFrames,
-          double streamTime, RtAudioStreamStatus status, void* userData )
+          double streamTime, RtAudioStreamStatus status, void* userData)
 {
     MY_TYPE* buffer = ( MY_TYPE* )outputBuffer;
     if ( status )
         std::cout << "Stream underflow detected!" << std::endl;
     static MY_TYPE phz = 0;
-    MY_TYPE freq = 440.0;
     MY_TYPE amp = 1.0;
     // //phase increment formula
     const MY_TYPE phzinc = k2PIT * freq;
@@ -54,6 +54,7 @@ MainWindow::MainWindow( QWidget* parent )
 //    std::cout << "MainWindow()" << std::endl;
     init_controls();
     open_dac_stream();
+    dac.stopStream();
 }
 
 MainWindow::~MainWindow()
@@ -64,9 +65,7 @@ MainWindow::~MainWindow()
 
 void MainWindow::init_controls()
 {
-    ui->horizontalSlider_freq->setValue(220);
-    ui->horizontalSlider_amp->setValue(50);
-    ui->label_freqValue->setNum(220);
+    ui->verticalSlider_amp->setValue(50);
     ui->label_ampValue->setNum(50);
 }
 
@@ -98,6 +97,7 @@ void MainWindow::open_dac_stream()
         e.printMessage();
         close_dac_stream();
     }
+    QApplication::processEvents();
 }
 
 void MainWindow::close_dac_stream()
@@ -107,33 +107,25 @@ void MainWindow::close_dac_stream()
 }
 
 // Use right-click "Go to Slot" on the control in Design view
-void MainWindow::on_pushButton_play_clicked()
+void MainWindow::on_pushButton_quit_clicked()
 {
-    try
-    {
-        dac.startStream();
-    }
-    catch (RtAudioError &e)
-    {
-        e.printMessage();
-        close_dac_stream();
-    }
+    close_dac_stream();
+    QApplication::quit();
 }
 
 // Use right-click "Go to Slot" on the control in Design view
-void MainWindow::on_pushButton_stop_clicked()
-{
-    dac.stopStream();
-}
-
-// Use right-click "Go to Slot" on the control in Design view
-void MainWindow::on_horizontalSlider_freq_valueChanged( int value )
-{
-    ui->label_freqValue->setNum(value);
-}
-
-// Use right-click "Go to Slot" on the control in Design view
-void MainWindow::on_horizontalSlider_amp_valueChanged( int value )
+void MainWindow::on_verticalSlider_amp_valueChanged( int value )
 {
      ui->label_ampValue->setNum(value * 0.01);
+}
+
+void MainWindow::on_toolButton_C4_pressed()
+{
+    freq = 1000;
+    dac.startStream();
+}
+
+void MainWindow::on_toolButton_C4_released()
+{
+    dac.stopStream();
 }

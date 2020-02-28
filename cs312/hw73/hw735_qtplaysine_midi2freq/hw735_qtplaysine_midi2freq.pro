@@ -34,7 +34,7 @@ FORMS += \
 # JE adds
 macx {
 # Mac OS specific qmake options
-TARGET = hw734_qtplaysine
+TARGET = hw735_qtplaysine
 TEMPLATE = app
  CONFIG += app_bundle
 # MUST USE FULL PATHNAMES
