@@ -1,0 +1,397 @@
+The system is: Darwin - 18.6.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+note: Using new build system
+note: Planning build
+note: Constructing build description
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdC' from project 'CompilerIdC')
+CreateBuildDirectory /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    builtin-create-build-directory /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/Entitlements.plist (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/Entitlements.plist
+
+ProcessProductPackaging "" /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap
+
+CompileC /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CMakeCCompilerId.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.14 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -iquote /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap -iquote /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/include -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources-normal/x86_64 -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/x86_64 -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC -MMD -MT dependencies -MF /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.d --serialize-diagnostics /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia -c /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CMakeCCompilerId.c -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList
+
+Ld /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC normal x86_64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC -F/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC -filelist /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList -Xlinker -object_path_lto -Xlinker /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_lto.o -Xlinker -dependency_info -Xlinker /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    /bin/sh -c /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+CURRENT_ARCH=undefined_arch
+
+CodeSign /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent --timestamp=none /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC"
+
+The C compiler identification is AppleClang, found in "/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+note: Using new build system
+note: Planning build
+note: Constructing build description
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+CreateBuildDirectory /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    builtin-create-build-directory /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/Entitlements.plist (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/Entitlements.plist
+
+ProcessProductPackaging "" /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/all-product-headers.yaml (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList
+
+CompileC /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CMakeCXXCompilerId.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.14 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -iquote /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap -iquote /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/include -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources-normal/x86_64 -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/x86_64 -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources -F/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX -MMD -MT dependencies -MF /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.d --serialize-diagnostics /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.dia -c /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CMakeCXXCompilerId.cpp -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o
+
+Ld /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX normal x86_64 (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX -F/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX -filelist /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList -Xlinker -object_path_lto -Xlinker /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_lto.o -Xlinker -dependency_info -Xlinker /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_dependency_info.dat -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    /bin/sh -c /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+CURRENT_ARCH=undefined_arch
+
+CodeSign /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent --timestamp=none /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX"
+
+The CXX compiler identification is AppleClang, found in "/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+note: Using new build system
+note: Planning build
+note: Constructing build description
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdC' from project 'CompilerIdC')
+CreateBuildDirectory /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    builtin-create-build-directory /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/Entitlements.plist (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/Entitlements.plist
+
+ProcessProductPackaging "" /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap
+
+CompileC /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CMakeCCompilerId.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -target x86_64-apple-macos10.14 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -iquote /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap -iquote /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/include -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources-normal/x86_64 -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/x86_64 -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC -MMD -MT dependencies -MF /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.d --serialize-diagnostics /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia -c /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CMakeCCompilerId.c -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList
+
+Ld /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC normal x86_64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos10.14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC -F/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC -filelist /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList -Xlinker -object_path_lto -Xlinker /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_lto.o -Xlinker -dependency_info -Xlinker /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    /bin/sh -c /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+CURRENT_ARCH=undefined_arch
+
+CodeSign /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC
+    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent --timestamp=none /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC"
+
+The C compiler identification is AppleClang, found in "/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+note: Using new build system
+note: Planning build
+note: Constructing build description
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+CreateBuildDirectory /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    builtin-create-build-directory /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/Entitlements.plist (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/Entitlements.plist
+
+ProcessProductPackaging "" /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/all-product-headers.yaml (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList
+
+CompileC /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CMakeCXXCompilerId.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -target x86_64-apple-macos10.14 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -iquote /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap -iquote /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/include -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources-normal/x86_64 -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/x86_64 -I/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources -F/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX -MMD -MT dependencies -MF /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.d --serialize-diagnostics /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.dia -c /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CMakeCXXCompilerId.cpp -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o
+
+Ld /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX normal x86_64 (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos10.14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -L/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX -F/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX -filelist /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList -Xlinker -object_path_lto -Xlinker /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_lto.o -Xlinker -dependency_info -Xlinker /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_dependency_info.dat -o /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX
+
+WriteAuxiliaryFile /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    write-file /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    /bin/sh -c /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+CURRENT_ARCH=undefined_arch
+
+CodeSign /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX
+    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent --timestamp=none /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX"
+
+The CXX compiler identification is AppleClang, found in "/Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX"
+

@@ -1,0 +1,22 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_7b783" "-configuration" "Debug"
+note: Using new build system
+2020-02-10 10:56:40.737 xcodebuild[82528:561293] unable to create build operation: Error Domain=com.apple.xcbuild Code=1 "unknown error while handling message: missingTarget(guid: "e266b09f96724e3de5ae0ab49f1692636015123af2f3a059197484ee5f1dd67b")" UserInfo={NSLocalizedDescription=unknown error while handling message: missingTarget(guid: "e266b09f96724e3de5ae0ab49f1692636015123af2f3a059197484ee5f1dd67b")}
+
+** BUILD FAILED **
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Volumes/cs312-00-w20/StuWork/yangz2/cs312/hw43/hw431_drumMachine_xcode/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_50e7e" "-configuration" "Debug"
+note: Using new build system
+2020-02-10 11:11:35.515 xcodebuild[85059:578563] unable to create build operation: Error Domain=com.apple.xcbuild Code=1 "unknown error while handling message: missingTarget(guid: "e266b09f96724e3de5ae0ab49f16926345ce93838ffb417c84c6f419c58bb9f2")" UserInfo={NSLocalizedDescription=unknown error while handling message: missingTarget(guid: "e266b09f96724e3de5ae0ab49f16926345ce93838ffb417c84c6f419c58bb9f2")}
+
+** BUILD FAILED **
+
+
+
